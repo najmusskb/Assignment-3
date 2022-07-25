@@ -68,3 +68,21 @@
 
 
 }
+
+
+
+
+.university:hover {
+
+    transition: transform .10s;
+    transform: scale(1.1);
+}
+
+
+.Download-part {
+
+    background-color: black;
+
+    margin: 200px;
+    border-radius: 20px;
+}
