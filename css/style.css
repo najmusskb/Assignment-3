@@ -1,4 +1,70 @@
-.button-1 {
+.Navigation-end {
 
-    background-color: blue;
+    margin-left: 325px;
+
+
+}
+
+.nav-link:hover {
+
+
+    background-color: red;
+    border-radius: 5px;
+
+}
+
+
+.color-black {
+
+    background-color: black;
+}
+
+.Class-1-12 {
+
+    font-size: 20px;
+    border-radius: 20px;
+
+}
+
+
+
+.color {
+
+    color: black;
+}
+
+.flex-text {
+
+    font-size: 22px;
+}
+
+
+/* special course part */
+
+
+.card {
+
+    margin: 10px;
+
+
+
+
+
+    transition: transform .10s;
+    /* Animation */
+
+
+
+}
+
+.card:hover {
+
+    transform: scale(1.1);
+}
+
+.card-system-text-color {
+
+    color: black;
+
+
 }
